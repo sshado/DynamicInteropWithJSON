@@ -1,0 +1,13 @@
+F:\Code\Frustrating.SDK\Testing.Library\bin\Debug\netcoreapp2.0\Frustrating.SDK.dll
+F:\Code\Frustrating.SDK\Testing.Library\bin\Debug\netcoreapp2.0\Frustrating.SDK.pdb
+F:\Code\Frustrating.SDK\Testing.Library\obj\Debug\netcoreapp2.0\Testing.Library.csprojResolveAssemblyReference.cache
+F:\Code\Frustrating.SDK\Testing.Library\obj\Debug\netcoreapp2.0\Testing.Library.csproj.CoreCompileInputs.cache
+F:\Code\Frustrating.SDK\Testing.Library\obj\Debug\netcoreapp2.0\Testing.Library.AssemblyInfoInputs.cache
+F:\Code\Frustrating.SDK\Testing.Library\obj\Debug\netcoreapp2.0\Testing.Library.AssemblyInfo.cs
+F:\Code\Frustrating.SDK\Testing.Library\obj\Debug\netcoreapp2.0\Testing.Library.dll
+F:\Code\Frustrating.SDK\Testing.Library\obj\Debug\netcoreapp2.0\Testing.Library.pdb
+F:\Code\Frustrating.SDK\Testing.Library\bin\Debug\netcoreapp2.0\Testing.Library.deps.json
+F:\Code\Frustrating.SDK\Testing.Library\bin\Debug\netcoreapp2.0\Testing.Library.runtimeconfig.json
+F:\Code\Frustrating.SDK\Testing.Library\bin\Debug\netcoreapp2.0\Testing.Library.runtimeconfig.dev.json
+F:\Code\Frustrating.SDK\Testing.Library\bin\Debug\netcoreapp2.0\Testing.Library.dll
+F:\Code\Frustrating.SDK\Testing.Library\bin\Debug\netcoreapp2.0\Testing.Library.pdb

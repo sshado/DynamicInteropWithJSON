@@ -1,0 +1,8 @@
+F:\Code\Frustrating.SDK\Frustrating.SDK\bin\Debug\netcoreapp2.0\Frustrating.SDK.deps.json
+F:\Code\Frustrating.SDK\Frustrating.SDK\bin\Debug\netcoreapp2.0\Frustrating.SDK.dll
+F:\Code\Frustrating.SDK\Frustrating.SDK\bin\Debug\netcoreapp2.0\Frustrating.SDK.pdb
+F:\Code\Frustrating.SDK\Frustrating.SDK\obj\Debug\netcoreapp2.0\Frustrating.SDK.csproj.CoreCompileInputs.cache
+F:\Code\Frustrating.SDK\Frustrating.SDK\obj\Debug\netcoreapp2.0\Frustrating.SDK.AssemblyInfoInputs.cache
+F:\Code\Frustrating.SDK\Frustrating.SDK\obj\Debug\netcoreapp2.0\Frustrating.SDK.AssemblyInfo.cs
+F:\Code\Frustrating.SDK\Frustrating.SDK\obj\Debug\netcoreapp2.0\Frustrating.SDK.dll
+F:\Code\Frustrating.SDK\Frustrating.SDK\obj\Debug\netcoreapp2.0\Frustrating.SDK.pdb

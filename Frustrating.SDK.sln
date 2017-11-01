@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frustrating.SDK", "Frustrating.SDK\Frustrating.SDK.csproj", "{0337D6C3-E904-4C9B-AE28-02CED38FA4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.Library", "Testing.Library\Testing.Library.csproj", "{33C27F69-EFAF-464D-AE78-C7EB67D17F53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0337D6C3-E904-4C9B-AE28-02CED38FA4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0337D6C3-E904-4C9B-AE28-02CED38FA4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0337D6C3-E904-4C9B-AE28-02CED38FA4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0337D6C3-E904-4C9B-AE28-02CED38FA4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C27F69-EFAF-464D-AE78-C7EB67D17F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C27F69-EFAF-464D-AE78-C7EB67D17F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C27F69-EFAF-464D-AE78-C7EB67D17F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C27F69-EFAF-464D-AE78-C7EB67D17F53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {735A17EB-D004-4C32-957A-0226CF96290F}
+	EndGlobalSection
+EndGlobal
