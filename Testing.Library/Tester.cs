@@ -27,14 +27,12 @@ namespace Testing.Library
             // Find out which fields were populated through reflection.
             foreach (PropertyInfo pi in formattedData.GetType().GetProperties())
             {
-                if (pi.PropertyType == typeof(string))
+                if (pi.PropertyType != typeof(string)) continue;
+                var value = (string)pi.GetValue(formattedData);
+                if (!string.IsNullOrEmpty(value))
                 {
-                    string value = (string)pi.GetValue(formattedData);
-                    if (!string.IsNullOrEmpty(value))
-                    {
-                        // If not null then report data received.
-                        Console.WriteLine(String.Format("{0} received from data pipe.", pi.Name));
-                    }
+                    // If not null then report data received.
+                    Console.WriteLine(String.Format("{0} received from data pipe.", pi.Name));
                 }
             }
         }
